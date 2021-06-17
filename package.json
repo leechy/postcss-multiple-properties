@@ -16,7 +16,7 @@
   "license": "MIT",
   "repository": "leechy/postcss-multiple-properties",
   "dependencies": {
-    "postcss": "^7.0.18"
+    "postcss": "^7.0.36"
   },
   "devDependencies": {
     "@logux/eslint-config": "^33.0.0",
